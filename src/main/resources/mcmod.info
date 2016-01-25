@@ -1,14 +1,14 @@
 [
 {
   "modid": "coalcompressor",
-  "name": "Coal Compressor Mod",
+  "name": "Synthesis of Diamonds Mod",
   "description": "",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/svgorbunov/synthesis-of-diamonds-mod",
   "updateUrl": "",
-  "authorList": ["hrb1658"],
-  "credits": "hrb1658",
+  "authorList": ["hrb1658", "svgorbunov"],
+  "credits": "hrb1658, svgorbunov",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

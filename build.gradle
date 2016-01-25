@@ -17,9 +17,9 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.1"
+version = "1.0"
 group= "com.hrb1658.coalcompressor" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "coal-compressor"
+archivesBaseName = "synthesis-of-diamonds-mod"
 
 minecraft {
     version = "1.7.10-10.13.4.1558-1.7.10"
