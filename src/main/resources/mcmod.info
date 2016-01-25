@@ -1,0 +1,16 @@
+[
+{
+  "modid": "coalcompressor",
+  "name": "Coal Compressor Mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["hrb1658"],
+  "credits": "hrb1658",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
